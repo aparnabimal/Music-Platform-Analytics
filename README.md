@@ -43,6 +43,8 @@ Understanding the factors influencing an artist's success on a music platform is
 ### Exploratory Data Analysis (EDA)
 
 *   Analyzed user demographics (gender, location, occupation) and their distribution.
+  ![User_Locations](https://github.com/user-attachments/assets/1930c442-7109-4866-9515-9e1a27632e14)
+
 *   Examined song attributes (genre, upload platform) and their relationship to success.
 *   Investigated user engagement metrics (plays, likes, downloads) for both users and songs.
 *   Explored relationships between user profile classifications and artist success.
